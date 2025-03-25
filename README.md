@@ -5,4 +5,4 @@ My name is Minjun Kim, and I am a student of Computer Software major.
 
 This is my ___ GitHub repository.
 
-![hello-world](./hello-world.png)
+<img src="hello-world.png">
